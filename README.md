@@ -1,6 +1,11 @@
 # 1.0 Introduction
 
-This module is called "Module for flow discharge and sediment load relation in a river". It is designed to predict the sediment load for given water discharge in a river. For specified channel bed slope, channel width, bed surface grain size, and channel resistance coefficient, it produces a graph showing the relation between water discharge and sediment load. 
+This module is called "Module for flow discharge and sediment load relation in a river". 
+It is designed to predict the sediment load for given water discharge in a river. 
+For specified channel bed slope, channel width, bed surface grain size, and channel resistance coefficient, it produces a graph showing the relation between water discharge and sediment load. 
+
+Sediment transport is typically describes as a function of shear stress at the channel bed. In general, deeper flow corresponds to higher bed shear stress; hence sediment load increases with increasing water discharge. Wider channel tends to have less capacity of sediment transport because wider channel corresponds to shallower flow for given water discharge, therefore lower bed shear stress. When grain is fine, the sediment transport increases because fine sediment is easy to be picked up and carried away, compared to coarse grain. Higher bed resistance (e.g. bumpy bed) can reduce bed shear stress. That is to say, higher bed resistance causes lower sediment transport.
+
 
 ![demo image](./demo.jpeg "Demo of GUI")
 
