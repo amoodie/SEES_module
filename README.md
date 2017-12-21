@@ -13,7 +13,7 @@ Higher bed resistance (e.g. bumpy bed) can reduce bed shear stress. That is to s
 
 Details on the theoretical background is summarized in the document that can be found here.
 
-![demo image](./demo.jpeg "Demo of GUI")
+![demo image](./private/demo.jpeg "Demo of GUI")
 
 
 # 2.0 Installation and setup guides
