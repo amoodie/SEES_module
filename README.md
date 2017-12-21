@@ -28,7 +28,7 @@ As of December 21, 2017, it is confirmed that the module functions under the env
 However, the use of Python2.7 is recommended, rather than Python3 since the module is developed under the environment of Python2.7. 
 
 ## 2.2 Download the Python code
-* Visit the 'download' folder of this repository ([https://github.com/amoodie/research_outreach/tree/master/flooding_risk/download](./download)) and download the file named "module_discharge_sediment.py".
+* Visit the 'module' folder of this repository ([https://github.com/amoodie/research_outreach/tree/master/flooding_risk/download](./download)) and download the file named "module_discharge_sediment.py".
 
 ## 2.3 Excute the file to run the module
 There are several ways of excuting the Python file to run the module. 
@@ -39,14 +39,14 @@ IDLE stands for Integrated Development and Learning Environment.
 It allows you to edit the souce code, as well as to excute the file by simply fitting F5 key. 
 Open the module_discharge_sediment.py fine with IDLE and hit F5 key, then the module will be displayed. 
 
-![demo image](./demo.jpeg "Demo of IDLE")
+![idle image](./private/demo.jpeg "Demo of IDLE")
 
 ### Comand prompt or Terminal
 The file can be executed in the Command Prompt (Windows) or Terminal (macOX and Linux). 
 First, change your current difectory to the location where the user saved the module_discharge_sediment.py file. 
 Then type "python module_discharge_sediment.py", and the module will be displayed.
 
-![demo image](./demo.jpeg "Demo of Command Prompt")
+![commandprompt image](./privete/commandprompt.jpeg "Demo of Command Prompt")
 
 
 # 3.0 Disclaimer
