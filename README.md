@@ -21,7 +21,8 @@ Details on the theoretical background is summarized in the document that can be 
 This module requires users to be in python emvironment. 
 For those who do not have Python on the computer, it is highly recommended to install Anaconda, which is an open source distribution of Python. 
 It comes with basic laiblaries, some of which are used in the module. 
-Anaconda can be dowloaded at https://www.anaconda.com/download/ for Windows, macOS, and Linux. Please follow the instruction provided in the website as to how to install and setup Python on your computer.
+Anaconda can be dowloaded at https://www.anaconda.com/download/ for Windows, macOS, and Linux. 
+Please follow the instruction provided in the website as to how to install and setup Python on your computer.
 As of December 21, 2017, it is confirmed that the module functions under the environments of both Python2.7 and Python3, and both Windows and Linux.
 However, the use of Python2.7 is recommended, rather than Python3 since the module is developed under the environment of Python2.7. 
 
@@ -32,10 +33,16 @@ However, the use of Python2.7 is recommended, rather than Python3 since the modu
 ## 2.3 Excute the file to run the module
 There are several ways of excuting the Python file to run the module. 
 
-### IDLE editor
+### IDLE Editor
+IDLE stands for Integrated Development and Learning Environment. 
+It allows you to edit the souce code, as well as to excute the file by simply fitting F5 key. 
+Open the module_discharge_sediment.py fine with IDLE and hit F5 key, then the module will be displayed. 
+![demo image](./demo.jpeg "Demo of IDLE")
 
-### Comand prompt 
+### Comand prompt or Terminal
+The file can be executed in the Command Prompt (Windows) or Terminal (macOX and Linux). 
 
+![demo image](./demo.jpeg "Demo of Command Prompt")
 
 # 3.0 Disclaimer
 
