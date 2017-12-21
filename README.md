@@ -22,13 +22,7 @@ _Note that if you have a full Matlab license,_ there is a section at the end for
 
 # 3.0 Disclaimer
 
-This module utilizes a Matlab Compiled Runtime (MCR) program for backend calculations and plotting of the model results.
-The program accompanying this module is to be run as a standalone application, but relies on the Matlab MCR; the program can be be downloaded at [http://www.coastalsustainability.rice.edu/outreach/](http://www.coastalsustainability.rice.edu/outreach/).
-For help troubleshooting the Matlab executable, please visit [https://www.mathworks.com/products/compiler/mcr.html](https://www.mathworks.com/products/compiler/mcr.html).
-The source code can be viewed at [https://github.com/amoodie/research_outreach](https://github.com/amoodie/research_outreach).
-
-The module was created by Andrew J. Moodie as part of an National Science Foundation funded research project assessing the sustainability of anthropogenically influenced deltas.
-The research is supported by Grant No. 1427262 and an NSF Graduate Research Fellowship to A.J.M. under Grant No. 1450681.
-Any opinion, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
-For more information, please visit [http://www.coastalsustainability.rice.edu/outreach/](http://www.coastalsustainability.rice.edu/outreach/).
-
+The module was created by Kensuke Naito as part of an National Science Foundation funded research project assessing the sustainability of anthropogenically influenced deltas.
+The research is supported by National Science Foundation (NSF) Grant No. 1427262.
+Any opinion, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the NSF.
+For more information, please contact Kensuke Naito at knaito2@illinois.edu.
