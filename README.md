@@ -1,6 +1,6 @@
 # 1.0 Introduction
 
-This module is called "Module for sediment load and water discharge relation". It is to predict the sediment load for given water discharge. 
+This module is called "Module for flow discharge and sediment load relation in a river". It is designed to predict the sediment load for given water discharge in a river. For specified channel bed slope, channel width, bed surface grain size, and channel resistance coefficient, it produces a graph showing the relation between water discharge and sediment load. 
 
 ![demo image](./demo.jpeg "Demo of GUI")
 
