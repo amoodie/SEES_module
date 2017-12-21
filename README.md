@@ -46,7 +46,7 @@ The file can be executed in the Command Prompt (Windows) or Terminal (macOX and 
 First, change your current difectory to the location where the user saved the module_discharge_sediment.py file. 
 Then type "python module_discharge_sediment.py", and the module will be displayed.
 
-![commandprompt image](./privete/commandprompt.jpeg "Demo of Command Prompt")
+![commandprompt image](./private/commandprompt.jpeg "Demo of Command Prompt")
 
 
 # 3.0 Disclaimer
