@@ -22,14 +22,19 @@ This module requires users to be in python emvironment.
 For those who do not have Python on the computer, it is highly recommended to install Anaconda, which is an open source distribution of Python. 
 It comes with basic laiblaries, some of which are used in the module. 
 Anaconda can be dowloaded at https://www.anaconda.com/download/ for Windows, macOS, and Linux. Please follow the instruction provided in the website as to how to install and setup Python on your computer.
-The use of Python2.7 is recommended, rather than Python3 since the module is developed under the environment of Python2.7. However, as of December 21, 2017, it is confirmed that the module functions under the environments of both Python2.7 and Python3., and both Windows and Linux.
+As of December 21, 2017, it is confirmed that the module functions under the environments of both Python2.7 and Python3, and both Windows and Linux.
+However, the use of Python2.7 is recommended, rather than Python3 since the module is developed under the environment of Python2.7. 
 
-## 2.2 Run the module
-* Visit the 'download' folder of this repository ([https://github.com/amoodie/research_outreach/tree/master/flooding_risk/download](./download)) and download the 64-bit Windows 10 FloodingModule installer.
-* Run the installer by navigating to the download directory and executing the installer by double clicking. Note that you may have to run this as administrator, depending on where you intend to install the program and Matlab MCR.
-* Follow the default options. If you must make any changes during the install process, be sure to note them (e.g., the install location), as you will may this information to run the module program.
-* You can now run the program by navigating to the install location. 
-  * note that the program may take up to a minute to launch the first time.
+## 2.2 Download the Python code
+* Visit the 'download' folder of this repository ([https://github.com/amoodie/research_outreach/tree/master/flooding_risk/download](./download)) and download the file named "module_discharge_sediment.py".
+
+
+## 2.3 Excute the file to run the module
+There are several ways of excuting the Python file to run the module. 
+
+### IDLE editor
+
+### Comand prompt 
 
 
 # 3.0 Disclaimer
