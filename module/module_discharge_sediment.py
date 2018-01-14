@@ -33,6 +33,7 @@ Smin = 0.01; Smax = 1.   #[%] Minimum and maximum values of channel slope
 Bmin = 50.; Bmax = 200.   #[m] Minimum and maximum values of channel width
 Dmin = 0.01; Dmax = 2.   #[mm] Minimum and maximum values of bed grain size
 Cfmin = 0.001; Cfmax = 0.1   #[1] Minimum and maximum values of channel resistance coeffienent
+ymin = 10; ymax = 5e4   # Minimun and maximum value of the y-axix of the plot
 
 
 #------------------------------------------------------------------
@@ -80,8 +81,8 @@ plt.title('Discharge - Sediment load Relation')
 ax.set_xlabel('Water discharege [m^3/s]')
 ax.set_ylabel('Sediment load [ton/day]')
 
-plt.ylim(10, 5e5)
-plt.grid(True)
+plt.ylim(ymin, ymax)
+plt.grid(b=True, which='both')
 
 # setup sliders
 ax_color = 'lightgoldenrodyellow'
