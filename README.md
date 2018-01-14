@@ -11,7 +11,7 @@ Steeper channel (or higher slope) is able to transport more sediment.
 When grain is fine, the sediment transport increases because fine sediment is easy to be picked up and carried away, compared to coarse grain. 
 Higher bed resistance (e.g. bumpy bed) can reduce bed shear stress. That is to say, higher bed resistance causes lower sediment transport.
 
-Details on the theoretical background is summarized in the [document](./documents/theory.pdf "theory"). A [training worksheet] (./documents/worksheet.pdf "worksheet") is also provided to familiarize the user with the module .
+Details on the theoretical background is summarized in the [document](./documents/theory.pdf "theory"). A [training worksheet](./documents/worksheet.pdf "worksheet") is also provided to familiarize the user with the module .
 
 ![demo image](./private/demo.jpeg "Demo of GUI")
 
