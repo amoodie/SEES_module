@@ -19,10 +19,10 @@ Details on the theoretical background is summarized in the [document](./document
 # 2.0 Installation and setup guides
 
 ## 2.1 Install Python
-This module requires users to be in python emvironment. 
+This module requires users to be in python environment. 
 For those who do not have Python on the computer, it is highly recommended to install Anaconda, which is an open source distribution of Python. 
-It comes with basic laiblaries, some of which are used in the module. 
-Anaconda can be dowloaded at https://www.anaconda.com/download/ for Windows, macOS, and Linux. 
+It comes with basic libraries, some of which are used in the module. 
+Anaconda can be downloaded at https://www.anaconda.com/download/ for Windows, macOS, and Linux. 
 Please follow the instruction provided in the website as to how to install and setup Python on your computer.
 As of December 21, 2017, it is confirmed that the module functions under the environments of both Python2.7 and Python3, and both Windows and Linux.
 However, the use of Python2.7 is recommended, rather than Python3 since the module is developed under the environment of Python2.7. 
@@ -30,20 +30,20 @@ However, the use of Python2.7 is recommended, rather than Python3 since the modu
 ## 2.2 Download the Python code
 Visit the 'module' folder of this repository (https://github.com/kensukename2/SEES_module/tree/master/module) and download the file named "module_discharge_sediment.py".
 
-## 2.3 Excute the file to run the module
-There are several ways of excuting the Python file to run the module. 
-Here, following two reccomended ways of file execution are presented.
+## 2.3 Execute the file to run the module
+There are several ways of executing the Python file to run the module. 
+Here, following two recommended ways of file execution are presented.
 
 ### IDLE Editor
 IDLE stands for Integrated Development and Learning Environment. 
-It allows you to edit the souce code, as well as to excute the file by simply fitting F5 key. 
+It allows you to edit the source code, as well as to execute the file by simply fitting F5 key. 
 Open the module_discharge_sediment.py fine with IDLE and hit F5 key, then the module will be displayed. 
 
 ![idle image](./private/idle.jpeg "Demo of IDLE")
 
 ### Comand prompt or Terminal
 The file can be executed in the Command Prompt (Windows) or Terminal (macOX and Linux). 
-First, change your current difectory to the location where the user saved the module_discharge_sediment.py file. 
+First, change your current directory to the location where the user saved the module_discharge_sediment.py file. 
 Then type "python module_discharge_sediment.py", and the module will be displayed.
 
 ![commandprompt image](./private/commandprompt.jpeg "Demo of Command Prompt")
