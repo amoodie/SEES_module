@@ -4,6 +4,7 @@
     "version": "1.0",
     "shortdesc": "Estimate sediment discharge for specified channel geometry",
     "difficulty": 9,
+    "license": "MIT",
     "projurl": "[hosted on GitHub](https://github.com/kensukename2/SEES_module)",
     "projreadme": ["README.md"],
     "preview": ["private", "demo.jpeg"],
