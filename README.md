@@ -41,7 +41,7 @@ Open the module_discharge_sediment.py fine with IDLE and hit F5 key, then the mo
 
 ![idle image](./private/idle.jpeg "Demo of IDLE")
 
-### Comand prompt or Terminal
+### Command prompt or Terminal
 The file can be executed in the Command Prompt (Windows) or Terminal (macOX and Linux). 
 First, change your current directory to the location where the user saved the module_discharge_sediment.py file. 
 Then type "python module_discharge_sediment.py", and the module will be displayed.
